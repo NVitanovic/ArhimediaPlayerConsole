@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<applicationPath>notepad</applicationPath>
+	<serverAddress>127.0.0.1</serverAddress>
+	<useWifi>false</useWifi>
+	<minDistance>10</minDistance>
+	<maxDistance>50</maxDistance>
+	<numberOfSamples>10</numberOfSamples>
+	<samplingTime>100</samplingTime>
+	<debug>true</debug>
+	<!--<logoPath>vita.bmp</logoPath>-->
+	<!--<backgroundColor>#000000</backgroundColor>-->
+	<comPortSettings>
+		<port>COM4</port>
+		<baudRate>115200</baudRate>
+	</comPortSettings>
+</Config>
